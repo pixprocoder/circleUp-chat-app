@@ -5,3 +5,5 @@
 - Next.js
 - socket.io
 - serverless
+– shadcnUI
+– Tailwind css
