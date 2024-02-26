@@ -7,3 +7,5 @@
 - serverless
 – shadcnUI
 – Tailwind css
+- node.js 
+- Express.js 
