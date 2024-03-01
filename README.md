@@ -9,3 +9,5 @@
 – Tailwind css
 - node.js 
 - Express.js 
+
+## resources 
